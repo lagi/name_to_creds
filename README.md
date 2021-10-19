@@ -14,9 +14,15 @@ positional arguments:
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -firstname FIRSTNAME  Desired lenght of first name
+  
   -lastname LASTNAME    Desired lenght of last name
+  
   -delimiter DELIMITER  Delimiter between first and last name
+  
   -reverse              Reverse first and last names
+  
   -start START          Start the username with a specified string
+  
   -end END              End the username with a specified string
