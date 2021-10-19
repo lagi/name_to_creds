@@ -6,8 +6,8 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('filename', type=str, help='Name of the source file')
-parser.add_argument('-firstname', type=int, help='Desired lenght of first name')
-parser.add_argument('-lastname', type=int, help='Desired lenght of last name')
+parser.add_argument('-firstname', type=int, help='Desired length of first name')
+parser.add_argument('-lastname', type=int, help='Desired length of last name')
 parser.add_argument('-delimiter', type=str, help='Delimiter between first and last name')
 parser.add_argument('-reverse', action='store_true', help='Reverse first and last names')
 parser.add_argument('-start', type=str, default="", help='Start the username with a specified string')
