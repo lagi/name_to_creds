@@ -15,9 +15,9 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   
-  -firstname FIRSTNAME  Desired lenght of first name
+  -firstname FIRSTNAME  Desired length of first name
   
-  -lastname LASTNAME    Desired lenght of last name
+  -lastname LASTNAME    Desired length of last name
   
   -delimiter DELIMITER  Delimiter between first and last name
   
